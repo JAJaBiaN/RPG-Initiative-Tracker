@@ -1,0 +1,5 @@
+Arvis, 21
+Lymrith, 11
+Ran, 14
+Goblin_x2, 12
+Ogre, 8
